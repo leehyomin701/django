@@ -1,0 +1,4 @@
+venv/
+hello_django/settings.py
+.idea/
+db.sqlite3
